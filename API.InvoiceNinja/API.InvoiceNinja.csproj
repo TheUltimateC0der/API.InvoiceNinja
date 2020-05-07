@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
+    <Authors>TheUltimateCoder</Authors>
+    <RepositoryUrl>https://github.com/TheUltimateC0der/API.InvoiceNinja</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageProjectUrl>https://github.com/TheUltimateC0der/API.InvoiceNinja</PackageProjectUrl>
+    <Description>API Client for InvoiceNinja automatically generated with swagger-gen</Description>
   </PropertyGroup>
 
   <ItemGroup>
